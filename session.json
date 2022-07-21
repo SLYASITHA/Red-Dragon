@@ -56,7 +56,7 @@
     "signalIdentities": [
       {
         "identifier": {
-          "name": "380944814219:12@s.whatsapp.net",
+          "name": "94701395901:12@s.whatsapp.net",
           "deviceId": 0
         },
         "identifierKey": {
@@ -363,7 +363,7 @@
       }
     },
     "sessions": {
-      "380944814219.0": {
+      "94701395901.0": {
         "_sessions": {
           "Bc2aGl5MwaHPiU9eUgezBIyL0tijvB+ngyFPL4RnXEwb": {
             "registrationId": 46457280,
@@ -411,7 +411,7 @@
       "AAAAALna": {
         "keyData": "ISuK8vu4dc1EWl3MR7mG7jpJdk6mDHfpxwAOQ2f3KmY=",
         "fingerprint": {
-          "rawId": 723089382,
+          "rawId": 94701395901,
           "currentIndex": 10,
           "deviceIndexes": [
             0,
@@ -423,7 +423,7 @@
       "AAAAALnY": {
         "keyData": "ktXMg1yB5V2lJHaxbaRnTz80+Z1Dln0DBc2KSpMMGE8=",
         "fingerprint": {
-          "rawId": 723089382,
+          "rawId": 94701395901,
           "currentIndex": 9,
           "deviceIndexes": [
             0,
@@ -436,7 +436,7 @@
       "AAAAALnZ": {
         "keyData": "01bTn4DwyuJ/Vqig9DMTrqC400ugcM1jb3kPh+83QQk=",
         "fingerprint": {
-          "rawId": 723089382,
+          "rawId": 94701395901,
           "currentIndex": 10,
           "deviceIndexes": [
             0,
@@ -449,7 +449,7 @@
       "AAAAALnW": {
         "keyData": "WBLwDt2T/195hCzd3jnq3ASl3JYBQ5JBFlLlC2g26II=",
         "fingerprint": {
-          "rawId": 723089382,
+          "rawId": 94701395901,
           "currentIndex": 8,
           "deviceIndexes": [
             0,
@@ -463,7 +463,7 @@
       "AAAAALnX": {
         "keyData": "8qhbeGqkZj0MC4Q/rHbFeuLinf8jtDGXkzrUke0LCzo=",
         "fingerprint": {
-          "rawId": 723089382,
+          "rawId": 94701395901,
           "currentIndex": 8,
           "deviceIndexes": [
             0,
@@ -476,7 +476,7 @@
       "AAAAALnU": {
         "keyData": "QcUlwDAAcvUL9BVunA9nrCGVb5CfirDoe3zxeVOwF0k=",
         "fingerprint": {
-          "rawId": 723089382,
+          "rawId": 94701395901,
           "currentIndex": 5,
           "deviceIndexes": [
             0,
@@ -489,7 +489,7 @@
       "AAAAALnV": {
         "keyData": "9yxFDTSFgd82x7Glli184YXe6jESGzWGbpfXusOMtZc=",
         "fingerprint": {
-          "rawId": 723089382,
+          "rawId": 94701395901,
           "currentIndex": 6,
           "deviceIndexes": [
             0,
@@ -502,7 +502,7 @@
       "AAAAALnS": {
         "keyData": "BlVJwFxp/bf+noP2urInZM3SDZbmRT8ujUJShQoU3FI=",
         "fingerprint": {
-          "rawId": 723089382,
+          "rawId": 94701395901,
           "currentIndex": 3,
           "deviceIndexes": [
             0,
@@ -515,7 +515,7 @@
       "AAAAALnT": {
         "keyData": "04blzKazBCebd8eqgM5kCe8yedsRkQWlHll4plEsNBU=",
         "fingerprint": {
-          "rawId": 723089382,
+          "rawId": 94701395901,
           "currentIndex": 4,
           "deviceIndexes": [
             0,
@@ -528,7 +528,7 @@
       "AAAAALnR": {
         "keyData": "kmQDuu71LKe7eLqzP61ZUUTBJkb7O9L0c2E6cGllXFE=",
         "fingerprint": {
-          "rawId": 723089382,
+          "rawId": 94701395901,
           "currentIndex": 1,
           "deviceIndexes": [
             0,
